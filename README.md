@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KajalDev108
 - 👀 I’m interested in FrontEnd Developer
-- 🌱 I’m currently learning Java , Javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java , JavaScript
+- 💞️ I’m looking to collaborate on FrontEnd
 - 📫 How to reach me ... sengarkajal089@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Html,Css,Java $ JavaScript
 - ⚡ Fun fact: ...
