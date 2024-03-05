@@ -8,7 +8,7 @@ Hi there 👋 I'm Kajal sengar
 
 . 💬 Ask me about HTML, CSS,JavaScript,JAVA
 
-. 📫 How to reach me: sengarkajal089 
+. 📫 How to reach me: sengarkajal089@gmail.com
 
 . Fun fact: ... Ask tomorrow
 
