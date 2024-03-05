@@ -1,11 +1,17 @@
 Hi there 👋 I'm Kajal sengar 
+
 . 🔭 I’m currently working on FrontEnd Developer
 
 . 🌱 I’m currently learning Java, javaScript
+
 . 👯 I’m looking to collaborate on FrontEnd
+
 . 💬 Ask me about HTML, CSS,JavaScript,JAVA
+
 . 📫 How to reach me: sengarkajal089 
+
 . Fun fact: ... Ask tomorrow
+
 # Connect with me 👇
 <p float="left">
     <a href="https://www.linkedin.com/in/gungun-agrawal-6451362a9/" title="Direct to LinkedIn" target="_blank">
