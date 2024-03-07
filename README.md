@@ -10,7 +10,7 @@ Hi there 👋 I'm Kajal sengar
 
 . 📫 How to reach me: sengarkajal089@gmail.com
 
-. Fun fact: ... Ask tomorrow
+. Fun fact:  Ask tomorrow......
 
 # Connect with me 👇
 
